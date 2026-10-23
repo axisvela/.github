@@ -8,6 +8,12 @@ are the open surface: runnable frameworks, protocols, contracts, SDKs, and
 reference implementations. Core and enterprise editions are developed privately
 and offered separately.
 
+## Full project map
+
+For the complete map — every project, its goals, relationships, concepts, and
+where to start — see [AxisVela Open](https://github.com/axisvela/axisvela-open)
+or the [documentation site](https://axisvela.github.io/axisvela-open/).
+
 ## Start here
 
 ### [praxo-core](https://github.com/axisvela/praxo-core) — MIT agent framework
