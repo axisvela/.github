@@ -1,5 +1,7 @@
 # AxisVela
 
+**English** | [简体中文](README.zh-CN.md)
+
 **Independent developer projects** for governed autonomous systems — agents,
 workflows, robots, and digital twins — built in public.
 
